@@ -1,1 +1,1 @@
-web: gunicorn flashcards:app
+web: gunicorn dash:app
